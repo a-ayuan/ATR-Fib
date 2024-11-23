@@ -2,8 +2,6 @@
 
 The **ATR Fib Indicator** is a customizable trading tool designed to enhance intraday analysis by leveraging the Average True Range (ATR) to generate Fibonacci-based support and resistance levels.
 
----
-
 ## Features
 
 - **User-Defined ATR**: Set your own ATR value for the day.
@@ -13,15 +11,11 @@ The **ATR Fib Indicator** is a customizable trading tool designed to enhance int
   - Choose colors for each Fibonacci level.
 - **Intraday Focus**: Works best with intraday timeframes, offering key price zones for trading.
 
----
-
 ## How It Works
 
 1. **Define ATR**: Input the desired ATR value based on your trading strategy.
 2. **Set Fibonacci Levels**: Customize Fibonacci ratios to tailor support and resistance zones.
 3. **Visualize Levels**: The indicator dynamically draws lines on the chart, marking price levels above and below the daily open, calculated using the ATR and Fibonacci ratios.
-
----
 
 ## Input Options
 
@@ -35,8 +29,6 @@ For each level:
 - **Color**: Select the line color.
 - **Style**: Choose between solid, dotted, or dashed lines.
 
----
-
 ## Installation
 
 1. Open the Pine Editor in TradingView.
@@ -44,7 +36,6 @@ For each level:
 3. Save and add the script to your chart.
 4. Adjust the input settings to fit your trading preferences.
 
----
 
 ## Usage
 
@@ -53,14 +44,10 @@ For each level:
   - **Trend Confirmation**: Assess market movement in relation to key Fibonacci levels.
 - Combine with other indicators for enhanced strategy validation.
 
----
-
 ## Notes
 
 - Designed for intraday timeframes; performance may vary on higher timeframes.
 - Always backtest and validate the indicator with your trading strategy.
-
----
 
 ## Disclaimer
 

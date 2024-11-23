@@ -51,5 +51,5 @@ For each level:
 
 ## Disclaimer
 
-This indicator is a tool to support trading decisions and does not guarantee success. Use at your own risk and always practice proper risk management.
+This indicator is a tool to support trading decisions and does not guarantee success. It is not a substitute for thorough market analysis or professional financial advice. Users should backtest and validate the indicator thoroughly to ensure it aligns with their trading strategy. Market conditions can be unpredictable, and relying solely on any single tool can result in significant financial losses. Always practice proper risk management, including setting stop-losses and using position sizing strategies. Trading carries inherent risks, and past performance of any indicator or strategy does not guarantee future results.
 
